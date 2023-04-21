@@ -1,2 +1,2 @@
 # Learn-jQuery
-<h1>Simple Approach of Learning jQuery</h1>
+<h1>Simple Approach for Learning jQuery</h1>
